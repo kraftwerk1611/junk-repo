@@ -1,3 +1,1 @@
-this is for testing only. I know it sucks. 
-Git vs Bitbucket. which one is better?
-some more changes made in branch2 now.
+inside privatebranch2 at 11:06
