@@ -2,4 +2,4 @@ this is for testing only. I know it sucks.
 Git vs Bitbucket. which one is better
 ?
 
-The file is modified in branch2
+The file is modified in branch1 now. And remember this is at 10:55
