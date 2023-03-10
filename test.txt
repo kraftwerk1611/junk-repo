@@ -7,4 +7,5 @@ The file is modified in branch2
 =======
 Git vs Bitbucket. which one is better?
 some more changes made in branch2 now.
+Einige Einzelkeiten sind manchmal so wichtig.
 >>>>>>> privatebranch2
