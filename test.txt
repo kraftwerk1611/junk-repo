@@ -1,11 +1,1 @@
-this is for testing only. I know it sucks. 
-<<<<<<< HEAD
-Git vs Bitbucket. which one is better
-?
-
-The file is modified in branch2
-=======
-Git vs Bitbucket. which one is better?
-some more changes made in branch2 now.
-Einige Einzelkeiten sind manchmal so wichtig.
->>>>>>> privatebranch2
+Inside master at 11:04
